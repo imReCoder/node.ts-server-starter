@@ -1,4 +1,4 @@
-# Node.ts Server Starter
+# Node.ts Server Starter Template
 
 node.ts starter is a starter template for typescript server.
 
