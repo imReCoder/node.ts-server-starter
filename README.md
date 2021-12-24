@@ -1,6 +1,6 @@
 # Node.ts Server Starter
 
-node.ts starter is a starter template for typescript seerver.
+node.ts starter is a starter template for typescript server.
 
 ## Installation
 
