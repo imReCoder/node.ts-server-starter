@@ -4,7 +4,7 @@ node.ts starter is a starter template for typescript seerver.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm](https://docs.npmjs.com/cli/v8/commands/npm-install) to install foobar.
 
 ```bash
 git clone https://github.com/imReCoder/node.ts-server-starter.git
